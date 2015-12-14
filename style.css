@@ -43,6 +43,7 @@ body {
 #exploreBody {
 	background-image: url("img/Battle1.png");
 	background-position: bottom center;
+    height:900px;
 
 }
 
@@ -51,15 +52,17 @@ body {
 	color: white;
 	position: absolute;
     padding: 20px 10px;
-    color: white;
-    font-size: 6em;
-    box-shadow: 5px 5px 20px #84999A;
+    color: black;
+    font-size: 3em;
+    width: 169px;
+    height: 42px;
+    box-shadow: 1px 1px 1px #84999A;
 
 }
 
 #goLeft1 {
-    left: 40px;
-    top: 40%;
+    left: 800px;
+    top: 75%;
     display: block;
 }
 
