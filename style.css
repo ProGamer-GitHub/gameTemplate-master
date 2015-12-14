@@ -67,14 +67,14 @@ body {
 }
 
 #goRight1 {
-    right: 40px;
-    top: 40%;
+    right: 169px;
+    top: 75%;
     display: block;
 }
 
 #goRight-Straight1 {
-    bottom: 25%;
-    left: 45%;
+    top: 75%;
+    left: 800px;
     display: none;
 }
 
@@ -97,8 +97,8 @@ body {
 }
 
 #goRight-Right2 {
-    right: 40px;
-    top: 40%;
+    right: 169px;
+    top: 75%;
     display: none;
 }
 

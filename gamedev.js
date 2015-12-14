@@ -1,9 +1,10 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreRight1.jpg')");
+		$("#exploreBody").css("background-image", "url('img/Battle2E.png')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
+		$("#goLeft1").hide();
 		$("#goRight-Straight1").show();
 		$("#goRight-Right2").show();
 	});
@@ -34,9 +35,9 @@ $( document ).ready(function() {
 
 
 	$("#goLeft1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft1.jpg')");
+		$("#exploreBody").css("background-image", "url('img/Battle2S.png')");
 		$("#goLeft1").hide();
-		$("#goLeft2").show();
+		$("#goBack").show();
 	});
 
 	$("#goLeft-Straight1").click(function() {
