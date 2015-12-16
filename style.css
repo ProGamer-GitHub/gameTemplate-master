@@ -84,12 +84,6 @@ body {
     display: none;
 }
 
-#goRight-Straight2 {
-    bottom: 25%;
-    left: 45%;
-    display: none;
-}
-
 #goLeft-Straight2 {
     bottom: 25%;
     left: 45%;
@@ -102,10 +96,10 @@ body {
     display: none;
 }
 
-#goLeft-Straight3 {
-    bottom: 10%;
-    left: 45%;
-    display: none;
+#goRight-Straight3 {
+    right: 169px;
+    top: 85%;
+    display: block;
 }
 
 #goBack {
