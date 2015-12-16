@@ -22,13 +22,13 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight3").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreRight3.jpg')");
+		$("#exploreBody").css("background-image", "url('img/Battle6.jpg')");
 		$("#goRight-Straight3").hide();
-		$("#goRight-Right2").show();
+		$("#goRight-Right2").hide();
 	});
 
 	$("#goRight-Right2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/explore2-goBack2.jpg')");
+		$("#exploreBody").css("background-image", "url('img/Battle2S.png')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
 	});

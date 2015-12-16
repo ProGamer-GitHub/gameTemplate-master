@@ -103,14 +103,14 @@ body {
 }
 
 #goLeft-Straight3 {
-    bottom: 25%;
+    bottom: 10%;
     left: 45%;
     display: none;
 }
 
 #goBack {
-    bottom: 25%;
-    left: 45%;
+    top: 75%;
+    left: 75%;
     display: none;
 }
 
